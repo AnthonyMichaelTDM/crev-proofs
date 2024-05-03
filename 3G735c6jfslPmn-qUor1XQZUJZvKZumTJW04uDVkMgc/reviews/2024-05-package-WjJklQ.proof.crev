@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-05-02T22:21:33.298118944-07:00
+from:
+  id-type: crev
+  id: 3G735c6jfslPmn-qUor1XQZUJZvKZumTJW04uDVkMgc
+  url: https://github.com/AnthonyMichaelTDM/crev-proofs
+package:
+  source: https://crates.io
+  name: qsync
+  version: 0.1.1
+  revision: e54cd09cb76ec5d99b80fa4da2dd5ab362ac8466
+  digest: bPc7S1tfdSQSJ88D3DmGcbowCjMP0COpDk6HzpC63Bw
+review:
+  thoroughness: medium
+  understanding: low
+  rating: positive
+comment: |-
+  simple crate that creates react query hooks for your rust backend
+----- SIGN CREV PROOF -----
+m2fNHay8qp2W5Sck43LWW5N4QeVliZS_5IexohjQzNdCFKxm0fmhoClpMkTpVrSXmcMV9zzu2Zx9iKF-TzVuBw
+----- END CREV PROOF -----
+
